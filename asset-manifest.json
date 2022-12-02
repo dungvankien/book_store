@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/book_store/static/css/main.5b3242dc.css",
-    "main.js": "/book_store/static/js/main.660c1537.js",
+    "main.css": "/book_store/static/css/main.da4cc890.css",
+    "main.js": "/book_store/static/js/main.f2f18a9c.js",
     "static/media/fa-solid-900.ttf": "/book_store/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/book_store/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/fa-solid-900.woff2": "/book_store/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
@@ -9,14 +9,15 @@
     "static/media/fa-regular-400.ttf": "/book_store/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
     "static/media/Winter.gif": "/book_store/static/media/Winter.5cf28d5aa9115bd24af7.gif",
     "static/media/fa-regular-400.woff2": "/book_store/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/nobookphoto.jpg": "/book_store/static/media/nobookphoto.fea3d7c600c579abe452.jpg",
     "static/media/fa-v4compatibility.ttf": "/book_store/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/book_store/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/book_store/index.html",
-    "main.5b3242dc.css.map": "/book_store/static/css/main.5b3242dc.css.map",
-    "main.660c1537.js.map": "/book_store/static/js/main.660c1537.js.map"
+    "main.da4cc890.css.map": "/book_store/static/css/main.da4cc890.css.map",
+    "main.f2f18a9c.js.map": "/book_store/static/js/main.f2f18a9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b3242dc.css",
-    "static/js/main.660c1537.js"
+    "static/css/main.da4cc890.css",
+    "static/js/main.f2f18a9c.js"
   ]
 }
