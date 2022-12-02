@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container">
-        <Link className="navbar-brand" to={"/bookstore-app/"}>
+        <Link className="navbar-brand" to={"/book_store"}>
           <h1 className="d-flex text-warning align-items-center">
             <i className="fa-solid fa-book-open-reader text-warning me-2 display-5"></i>
             BookStore

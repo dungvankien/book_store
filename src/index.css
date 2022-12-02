@@ -9,3 +9,19 @@ body {
   font-family: 'Ubuntu', sans-serif;
   background-color: rgb(207, 223, 236);
 }
+
+.photo-lg {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.spinner{
+  width: 60px;
+  height: 60px;
+}
+
+.photo-md{
+  width: 125px;
+  height: 130px;
+}
